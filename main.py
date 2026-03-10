@@ -1,0 +1,1 @@
+print("Demo thôi mấy con chó ")
